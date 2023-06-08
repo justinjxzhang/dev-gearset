@@ -23,4 +23,8 @@
         <fullName>CCPA</fullName>
         <default>false</default>
         <label>CCPA</label>
+      </standardValue><standardValue>
+        <fullName>NewValue</fullName>
+        <default>false</default>
+        <label>NewValue</label>
       </standardValue></StandardValueSet>
