@@ -35,8 +35,4 @@
         <fullName>ConflictTest1</fullName>
         <default>false</default>
         <label>ConflictTest1</label>
-      </standardValue><standardValue>
-        <fullName>ConflictTest3</fullName>
-        <default>false</default>
-        <label>ConflictTest3</label>
       </standardValue></StandardValueSet>
