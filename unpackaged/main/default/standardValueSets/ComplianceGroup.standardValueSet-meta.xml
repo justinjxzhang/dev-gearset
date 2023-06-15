@@ -31,4 +31,8 @@
         <fullName>AnotherNewValue</fullName>
         <default>false</default>
         <label>AnotherNewValue</label>
+      </standardValue><standardValue>
+        <fullName>YetAnotherNewValue</fullName>
+        <default>false</default>
+        <label>YetAnotherNewValue</label>
       </standardValue></StandardValueSet>
