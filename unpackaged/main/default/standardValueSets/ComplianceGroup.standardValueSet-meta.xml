@@ -32,6 +32,10 @@
         <default>false</default>
         <label>ConflictTest2</label>
       </standardValue><standardValue>
+        <fullName>ConflictTest1</fullName>
+        <default>false</default>
+        <label>ConflictTest1</label>
+      </standardValue><standardValue>
         <fullName>YetAnotherNewValue</fullName>
         <default>false</default>
         <label>YetAnotherNewValue</label>
