@@ -24,6 +24,10 @@
         <default>false</default>
         <label>CCPA</label>
       </standardValue><standardValue>
+        <fullName>NewName</fullName>
+        <default>false</default>
+        <label>NewConflictName</label>
+      </standardValue><standardValue>
         <fullName>AnotherNewValue</fullName>
         <default>false</default>
         <label>AnotherNewValue</label>
