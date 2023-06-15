@@ -39,8 +39,4 @@
         <fullName>SequentialConflictTest1</fullName>
         <default>false</default>
         <label>SequentialConflictTest1</label>
-      </standardValue><standardValue>
-        <fullName>SequentialConflictTest1</fullName>
-        <default>false</default>
-        <label>SequentialConflictTest1</label>
       </standardValue></StandardValueSet>
