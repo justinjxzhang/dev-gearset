@@ -28,9 +28,9 @@
         <default>false</default>
         <label>NewConflictName</label>
       </standardValue><standardValue>
-        <fullName>AnotherNewValue</fullName>
+        <fullName>ConflictTest2</fullName>
         <default>false</default>
-        <label>AnotherNewValue</label>
+        <label>ConflictTest2</label>
       </standardValue><standardValue>
         <fullName>YetAnotherNewValue</fullName>
         <default>false</default>
