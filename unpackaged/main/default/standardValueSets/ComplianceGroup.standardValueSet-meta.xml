@@ -24,7 +24,19 @@
         <default>false</default>
         <label>CCPA</label>
       </standardValue><standardValue>
-        <fullName>NewValue</fullName>
+        <fullName>NewName</fullName>
         <default>false</default>
-        <label>NewValue</label>
+        <label>NewConflictName</label>
+      </standardValue><standardValue>
+        <fullName>ConflictTest2</fullName>
+        <default>false</default>
+        <label>ConflictTest2</label>
+      </standardValue><standardValue>
+        <fullName>ConflictTest1</fullName>
+        <default>false</default>
+        <label>ConflictTest1</label>
+      </standardValue><standardValue>
+        <fullName>SequentialConflictTest1</fullName>
+        <default>false</default>
+        <label>SequentialConflictTest1</label>
       </standardValue></StandardValueSet>
