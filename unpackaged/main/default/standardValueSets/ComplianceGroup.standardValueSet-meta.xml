@@ -27,4 +27,8 @@
         <fullName>NewValue</fullName>
         <default>false</default>
         <label>NewValue</label>
+      </standardValue><standardValue>
+        <fullName>AnotherNewValue</fullName>
+        <default>false</default>
+        <label>AnotherNewValue</label>
       </standardValue></StandardValueSet>
