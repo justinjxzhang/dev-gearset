@@ -5,7 +5,7 @@
         <label>Active</label>
         <groupingString>Active</groupingString>
       </standardValue><standardValue>
-        <fullName>DeprecateCandidate</fullName>
+        <fullName>DeprecateCandidatey</fullName>
         <default>false</default>
         <label>DeprecateCandidate</label>
         <groupingString>DeprecateCandidate</groupingString>
