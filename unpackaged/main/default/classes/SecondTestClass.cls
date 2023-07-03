@@ -1,5 +1,5 @@
 @isTest 
-private class HelloWorldTestClass {
+private class SecondTestClass {
     @isTest 
     static void validateHelloWorld() {
        System.assertEquals(100, 100);
