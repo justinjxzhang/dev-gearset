@@ -1,9 +1,10 @@
 name: Auto convert PRs to draft
 on:
     pull_request:
-        types: [opened]
+        types: 
+            - opened
         branches:
-            - gs-pipeline/**
+            - 'gs-pipeline/**'
 jobs:
     setDraft:
         runs-on: ubuntu-latest
