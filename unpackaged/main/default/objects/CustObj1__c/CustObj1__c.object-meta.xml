@@ -158,7 +158,7 @@
         <label>CustObj1 Name</label>
         <type>Text</type>
     </nameField>
-    <pluralLabel>CustObjs1</pluralLabel>
+    <pluralLabel>CustObjs1s</pluralLabel>
     <searchLayouts />
     <sharingModel>ReadWrite</sharingModel>
     <visibility>Public</visibility>
