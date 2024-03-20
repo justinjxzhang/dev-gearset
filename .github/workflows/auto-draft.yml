@@ -1,0 +1,27 @@
+name: Auto convert PRs to draft
+on:
+    pull_request:
+        types: 
+            - opened
+jobs:
+    setDraft:
+        if: startsWith(github.head_ref, 'gs-pipeline')
+        runs-on: ubuntu-latest
+        steps:
+            - uses: octokit/graphql-action@v2.x
+              id: update_state
+              with:
+                query: |
+                    mutation ($prid: ID!){
+                        convertPullRequestToDraft(input: { pullRequestId: $prid}) {
+                          clientMutationId
+                          pullRequest {
+                            id
+                          }
+                        }
+                      }
+                prid: ${{github.event.pull_request.node_id}}
+        env:
+            GITHUB_TOKEN: ${{secrets.ACTION_PAT}}
+
+        
